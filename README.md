@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Cinemagraph gif of a person lying in an Outrun themed bedroom](https://ss.netnr.com/wallpaper)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZP-AlwaysWin&hide=html)
 ![Stats](https://github-readme-stats.vercel.app/api?username=ZP-AlwaysWin&show_icons=true&count_private=true&line_height=40)
